@@ -1,8 +1,8 @@
 ,cars_per_cap,country,drives_right
-US,809,United States,True
-AUS,731,Australia,False
-JAP,588,Japan,False
-IN,18,India,False
-RU,200,Russia,True
-MOR,70,Morocco,True
-EG,45,Egypt,True
+US,807,United States,True
+AUS,736,Australia,False
+JPN,581,Japan,False
+IN,17,India,False
+RU,202,Russia,True
+MOR,71,Morocco,True
+EG,48,Egypt,True
