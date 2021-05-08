@@ -24,4 +24,4 @@ Python is developed under an OSI-approved open source license, making it freely 
 - [The Hitchhiker’s Guide to Python](https://docs.python-guide.org/)
 - [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
 - [Tutorials Point](https://www.tutorialspoint.com/python/index.htm)
-- [W3Schools] (https://www.w3schools.com/python/)
+- [W3Schools](https://www.w3schools.com/python/)
