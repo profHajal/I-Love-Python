@@ -26,6 +26,9 @@ Python is developed under an OSI-approved open source license, making it freely 
 - [ Tutorials Point ](https://www.tutorialspoint.com/python/index.htm)
 - [ W3Schools ](https://www.w3schools.com/python/)
 
-## Datasets
-- [ BicycleWeather.csv ](https://github.com/profHajal/datasets/blob/main/BicycleWeather.csv)
+## Top 5 Datasets to learn Data Science with Python 
+- [ iris.csv ](https://github.com/profHajal/datasets/blob/main/iris.csv)
+- [ mnist.csv ](https://github.com/profHajal/datasets/blob/main/mnist.csv)
 - [ gapminder.csv ](https://github.com/profHajal/datasets/blob/main/gapminder.csv)
+- [ titanic_all_numeric.csv ](https://github.com/profHajal/datasets/blob/main/titanic_all_numeric.csv)
+- [ president_heights.csv ](https://github.com/profHajal/datasets/blob/main/president_heights.csv)
