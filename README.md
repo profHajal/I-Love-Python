@@ -20,7 +20,7 @@ Python is developed under an OSI-approved open source license, making it freely 
 - [CodingGround](https://www.tutorialspoint.com/execute_python3_online.php)
 
 ## Top 5 Resources Online to learn Python
-- [kaggle](https://www.kaggle.com/learn/python)
+- [Kaggle](https://www.kaggle.com/learn/python)
 - [The Hitchhiker’s Guide to Python](https://docs.python-guide.org/)
 - [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
 - [Tutorials Point](https://www.tutorialspoint.com/python/index.htm)
