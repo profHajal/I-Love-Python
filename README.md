@@ -14,7 +14,7 @@ Python is developed under an OSI-approved open source license, making it freely 
 - [SubLime](https://www.sublimetext.com/)
 - [Atom](https://atom.io/)
 
-## Top 3 Python IDEs Online (Integrated Development Environment)
+## Top 3 Python Online IDEs (Zero Installation)
 - [Google Colab](https://colab.research.google.com/)
 - [JDoodle](https://www.jdoodle.com/python3-programming-online/)
 - [CodingGround](https://www.tutorialspoint.com/execute_python3_online.php)
