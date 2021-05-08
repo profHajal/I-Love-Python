@@ -1,4 +1,4 @@
-# Python
+# I love Python
   [Python](https://www.python.org/) can be easy to pick up whether you're a first time programmer or you're experienced with other languages. The following pages are a useful first step to get on your way writing programs with Python!
 Python is developed under an OSI-approved open source license, making it freely usable and distributable, even for commercial use.
 
