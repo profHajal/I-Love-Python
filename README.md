@@ -8,10 +8,10 @@ Python is developed under an OSI-approved open source license, making it freely 
   - [ Top 5 Resources Online to learn Python ](https://github.com/profHajal/I-Love-Python/blob/main/README.md#top-5-resources-online-to-learn-python)
   - [ Top 5 Datasets to learn Data Science with Python ](https://github.com/profHajal/I-Love-Python/blob/main/README.md#top-5-datasets-to-learn-data-science-with-python)
   - [ Top 15 Python Libraries every Data Scientist should know about ](https://github.com/profHajal/I-Love-Python/blob/main/README.md#top-15-python-libraries-every-data-scientist-should-know-about)
-    * Math
-    * Data Exploration and Visualization
-    * Data Mining
-    * Machine Learning      
+    * [ Math ](https://github.com/profHajal/I-Love-Python/blob/main/README.md#math)
+    * [ Data Exploration and Visualization ](https://github.com/profHajal/I-Love-Python/blob/main/README.md#data-exploration-and-visualization)
+    * [ Data Mining ](https://github.com/profHajal/I-Love-Python/blob/main/README.md#data-mining)
+    * [ Machine Learning ](https://github.com/profHajal/I-Love-Python/blob/main/README.md#machine-learning)
 -----
 
 ## The following pages are a useful first step to get on your way writing programs with Python!
