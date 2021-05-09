@@ -1,7 +1,19 @@
 # I  :heartpulse:  Python
-  [Python](https://www.python.org/) can be easy to pick up whether you're a first time programmer or you're experienced with other languages. The following pages are a useful first step to get on your way writing programs with Python!
+  [Python](https://www.python.org/) can be easy to pick up whether you're a first time programmer or you're experienced with other languages.
 Python is developed under an OSI-approved open source license, making it freely usable and distributable, even for commercial use.
+# Table of contents
+  - The following pages are a useful first step to get on your way writing programs with Python!
+  - Top 5 Python IDEs (Integrated Development Environment)
+  - Top 3 Python Online IDEs (Zero Installation)
+  - Top 5 Resources Online to learn Python
+  - Top 5 Datasets to learn Data Science with Python
+  - Top 15 Python Libraries every Data Scientist should know about
+    * Math
+    * Data Exploration and Visualization
+    * Data Mining
+    * Machine Learning      
 
+## The following pages are a useful first step to get on your way writing programs with Python!
 - [ Beginner's Guide, Programmers ](https://wiki.python.org/moin/BeginnersGuide/Programmers)
 - [ Beginner's Guide, Non-Programmers ](https://wiki.python.org/moin/BeginnersGuide/NonProgrammers)
 - [ Beginner's Guide, Download & Installation ](https://wiki.python.org/moin/BeginnersGuide/Download)
