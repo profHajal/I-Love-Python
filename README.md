@@ -33,8 +33,8 @@ Python is developed under an OSI-approved open source license, making it freely 
 - [ titanic_all_numeric.csv ](https://github.com/profHajal/datasets/blob/main/titanic_all_numeric.csv)
 - [ president_heights.csv ](https://github.com/profHajal/datasets/blob/main/president_heights.csv)
 
-## Top 13 Python Libraries every Data Scientist should know about
-## Math
+## Top 15 Python Libraries every Data Scientist should know about
+### Math
  - [ NumPy ](https://github.com/numpy/numpy)
  - [ SciPy ](https://github.com/scipy/scipy)
 ### Data Exploration and Visualization
