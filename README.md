@@ -3,8 +3,8 @@
 Python is developed under an OSI-approved open source license, making it freely usable and distributable, even for commercial use.
 # Table of contents
   - [ The following pages are a useful first step to get on your way writing programs with Python! ](https://github.com/profHajal/I-Love-Python/blob/main/README.md#the-following-pages-are-a-useful-first-step-to-get-on-your-way-writing-programs-with-python)
-  - Top 5 Python IDEs (Integrated Development Environment)
-  - Top 3 Python Online IDEs (Zero Installation)
+  - [ Top 5 Python IDEs (Integrated Development Environment) ](https://github.com/profHajal/I-Love-Python/blob/main/README.md#top-5-python-ides-integrated-development-environment)
+  - [ Top 3 Python Online IDEs (Zero Installation) ](https://github.com/profHajal/I-Love-Python/blob/main/README.md#top-3-python-online-ides-zero-installation)
   - Top 5 Resources Online to learn Python
   - Top 5 Datasets to learn Data Science with Python
   - Top 15 Python Libraries every Data Scientist should know about
