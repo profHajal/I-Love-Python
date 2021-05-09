@@ -32,3 +32,25 @@ Python is developed under an OSI-approved open source license, making it freely 
 - [ gapminder.csv ](https://github.com/profHajal/datasets/blob/main/gapminder.csv)
 - [ titanic_all_numeric.csv ](https://github.com/profHajal/datasets/blob/main/titanic_all_numeric.csv)
 - [ president_heights.csv ](https://github.com/profHajal/datasets/blob/main/president_heights.csv)
+
+## Top 13 Python Libraries every Data Scientist should know about
+## Math
+ - [ NumPy ](https://github.com/numpy/numpy)
+ - [ SciPy ](https://github.com/scipy/scipy)
+### Data Exploration and Visualization
+ - [ Apache Spark ](https://github.com/apache/spark)
+ - [ Pandas ](https://github.com/pandas-dev/pandas)
+ - [ Matplotlib ](https://github.com/matplotlib/matplotlib)
+ - [ Plotly ](https://github.com/plotly/plotly.py)
+ - [ Seaborn ](https://github.com/mwaskom/seaborn)
+ - [Bokeh](https://github.com/bokeh/bokeh)
+### Data Mining
+ - [ BeautifulSoup ](https://pypi.org/project/beautifulsoup4/)
+ - [ Scrapy ](https://github.com/scrapy/scrapy)
+### Machine Learning
+ - [ Scikit Learn ](https://github.com/scikit-learn/scikit-learn)
+ - [ PyCaret ](https://github.com/pycaret/pycaret)
+ - [ TensorFlow ](https://github.com/tensorflow/tensorflow)
+ - [ Keras ](https://github.com/keras-team/keras)
+ - [ PyTorch ](https://github.com/pytorch/pytorch)
+
