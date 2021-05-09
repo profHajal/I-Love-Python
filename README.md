@@ -12,6 +12,7 @@ Python is developed under an OSI-approved open source license, making it freely 
     * Data Exploration and Visualization
     * Data Mining
     * Machine Learning      
+-----
 
 ## The following pages are a useful first step to get on your way writing programs with Python!
 - [ Beginner's Guide, Programmers ](https://wiki.python.org/moin/BeginnersGuide/Programmers)
