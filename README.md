@@ -8,10 +8,10 @@ Python is developed under an OSI-approved open source license, making it freely 
   - [ Top 5 Resources Online to learn Python ](https://github.com/profHajal/I-Love-Python/blob/main/README.md#top-5-resources-online-to-learn-python)
   - [ Top 5 Datasets to learn Data Science with Python ](https://github.com/profHajal/I-Love-Python/blob/main/README.md#top-5-datasets-to-learn-data-science-with-python)
   - [ Top 15 Python Libraries every Data Scientist should know about ](https://github.com/profHajal/I-Love-Python/blob/main/README.md#top-15-python-libraries-every-data-scientist-should-know-about)
-    * [ Math ](https://github.com/profHajal/I-Love-Python/blob/main/README.md#math)
-    * [ Data Exploration and Visualization ](https://github.com/profHajal/I-Love-Python/blob/main/README.md#data-exploration-and-visualization)
-    * [ Data Mining ](https://github.com/profHajal/I-Love-Python/blob/main/README.md#data-mining)
-    * [ Machine Learning ](https://github.com/profHajal/I-Love-Python/blob/main/README.md#machine-learning)
+    * [ Math libraries ](https://github.com/profHajal/I-Love-Python/blob/main/README.md#math-libraries)
+    * [ Data Exploration and Visualization libraries ](https://github.com/profHajal/I-Love-Python/blob/main/README.md#data-exploration-and-visualization-libraries)
+    * [ Data Mining libraries ](https://github.com/profHajal/I-Love-Python/blob/main/README.md#data-mining-libraries)
+    * [ Machine Learning libraries ](https://github.com/profHajal/I-Love-Python/blob/main/README.md#machine-learning-libraries)
 -----
 
 ## The following pages are a useful first step to get on your way writing programs with Python!
@@ -47,20 +47,20 @@ Python is developed under an OSI-approved open source license, making it freely 
 - [ president_heights.csv ](https://github.com/profHajal/datasets/blob/main/president_heights.csv)
 
 ## Top 15 Python Libraries every Data Scientist should know about
-### Math
+### Math libraries
  - [ NumPy ](https://github.com/numpy/numpy)
  - [ SciPy ](https://github.com/scipy/scipy)
-### Data Exploration and Visualization
+### Data Exploration and Visualization libraries
  - [ Apache Spark ](https://github.com/apache/spark)
  - [ Pandas ](https://github.com/pandas-dev/pandas)
  - [ Matplotlib ](https://github.com/matplotlib/matplotlib)
  - [ Plotly ](https://github.com/plotly/plotly.py)
  - [ Seaborn ](https://github.com/mwaskom/seaborn)
  - [Bokeh](https://github.com/bokeh/bokeh)
-### Data Mining
+### Data Mining libraries
  - [ BeautifulSoup ](https://pypi.org/project/beautifulsoup4/)
  - [ Scrapy ](https://github.com/scrapy/scrapy)
-### Machine Learning
+### Machine Learning libraries
  - [ Scikit Learn ](https://github.com/scikit-learn/scikit-learn)
  - [ PyCaret ](https://github.com/pycaret/pycaret)
  - [ TensorFlow ](https://github.com/tensorflow/tensorflow)
