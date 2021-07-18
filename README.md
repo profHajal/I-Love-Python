@@ -67,7 +67,7 @@ Python is developed under an OSI-approved open source license, making it freely 
  - [ TensorFlow ](https://github.com/tensorflow/tensorflow)
  - [ Keras ](https://github.com/keras-team/keras)
  - [ PyTorch ](https://github.com/pytorch/pytorch)
-### Image/Text to ASCII Libraries
+## Image/Text to ASCII Libraries
  - [image-to-Ascii](https://github.com/aypro-droid/image-to-ascii)
  - [pywhatkit](https://github.com/Ankit404butfound/PyWhatKit)
  - [ART](https://github.com/sepandhaghighi/art)
