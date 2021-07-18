@@ -2,16 +2,16 @@
   [Python](https://www.python.org/) can be easy to pick up whether you're a first time programmer or you're experienced with other languages.
 Python is developed under an OSI-approved open source license, making it freely usable and distributable, even for commercial use.
 # Table of contents
-  - [ The following pages are a useful first step to get on your way writing programs with Python! ](https://github.com/profHajal/I-Love-Python/blob/main/README.md#the-following-pages-are-a-useful-first-step-to-get-on-your-way-writing-programs-with-python)
-  - [ Top 5 Python IDEs (Integrated Development Environment) ](https://github.com/profHajal/I-Love-Python/blob/main/README.md#top-5-python-ides-integrated-development-environment)
-  - [ Top 3 Python Online IDEs (Zero Installation) ](https://github.com/profHajal/I-Love-Python/blob/main/README.md#top-3-python-online-ides-zero-installation)
-  - [ Top 5 Resources Online to learn Python ](https://github.com/profHajal/I-Love-Python/blob/main/README.md#top-5-resources-online-to-learn-python)
-  - [ Top 5 Datasets to learn Data Science with Python ](https://github.com/profHajal/I-Love-Python/blob/main/README.md#top-5-datasets-to-learn-data-science-with-python)
-  - [ Top 15 Python Libraries every Data Scientist should know about ](https://github.com/profHajal/I-Love-Python/blob/main/README.md#top-15-python-libraries-every-data-scientist-should-know-about)
-    * [ Math libraries ](https://github.com/profHajal/I-Love-Python/blob/main/README.md#math-libraries)
-    * [ Data Exploration and Visualization libraries ](https://github.com/profHajal/I-Love-Python/blob/main/README.md#data-exploration-and-visualization-libraries)
-    * [ Data Mining libraries ](https://github.com/profHajal/I-Love-Python/blob/main/README.md#data-mining-libraries)
-    * [ Machine Learning libraries ](https://github.com/profHajal/I-Love-Python/blob/main/README.md#machine-learning-libraries)
+  - [ The following pages are a useful first step to get on your way writing programs with Python! ](#the-following-pages-are-a-useful-first-step-to-get-on-your-way-writing-programs-with-python)
+  - [ Top 5 Python IDEs (Integrated Development Environment) ](#top-5-python-ides-integrated-development-environment)
+  - [ Top 3 Python Online IDEs (Zero Installation) ](#top-3-python-online-ides-zero-installation)
+  - [ Top 5 Resources Online to learn Python ](#top-5-resources-online-to-learn-python)
+  - [ Top 5 Datasets to learn Data Science with Python ](#top-5-datasets-to-learn-data-science-with-python)
+  - [ Top 15 Python Libraries every Data Scientist should know about ](#top-15-python-libraries-every-data-scientist-should-know-about)
+    * [ Math libraries ](#math-libraries)
+    * [ Data Exploration and Visualization libraries ](#data-exploration-and-visualization-libraries)
+    * [ Data Mining libraries ](#data-mining-libraries)
+    * [ Machine Learning libraries ](#machine-learning-libraries)
     * [Image/Text to ASCII Libraries](#imagetext-to-ascii-libraries)
 -----
 
