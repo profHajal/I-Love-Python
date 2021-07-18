@@ -72,3 +72,7 @@ Python is developed under an OSI-approved open source license, making it freely 
  - [image-to-Ascii](https://github.com/aypro-droid/image-to-ascii)
  - [pywhatkit](https://github.com/Ankit404butfound/PyWhatKit)
  - [ART](https://github.com/sepandhaghighi/art)
+ 
+## Text to Speech
+ - [pyttsx3](https://github.com/nateshmbhat/pyttsx3)
+ 
