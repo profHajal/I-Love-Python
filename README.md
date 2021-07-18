@@ -13,6 +13,7 @@ Python is developed under an OSI-approved open source license, making it freely 
     * [ Data Mining libraries ](#data-mining-libraries)
     * [ Machine Learning libraries ](#machine-learning-libraries)
   - [Image/Text to ASCII Libraries](#imagetext-to-ascii-libraries)
+  - [Text to Speech](#Text-to-Speech)
 -----
 
 ## The following pages are a useful first step to get on your way writing programs with Python!
