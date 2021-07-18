@@ -12,7 +12,7 @@ Python is developed under an OSI-approved open source license, making it freely 
     * [ Data Exploration and Visualization libraries ](https://github.com/profHajal/I-Love-Python/blob/main/README.md#data-exploration-and-visualization-libraries)
     * [ Data Mining libraries ](https://github.com/profHajal/I-Love-Python/blob/main/README.md#data-mining-libraries)
     * [ Machine Learning libraries ](https://github.com/profHajal/I-Love-Python/blob/main/README.md#machine-learning-libraries)
-    * [Image/Text to ASCII Libraries]()
+    * [Image/Text to ASCII Libraries](#imagetext-to-ascii-libraries)
 -----
 
 ## The following pages are a useful first step to get on your way writing programs with Python!
