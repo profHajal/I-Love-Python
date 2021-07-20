@@ -14,6 +14,7 @@ Python is developed under an OSI-approved open source license, making it freely 
     * [ Machine Learning libraries ](#machine-learning-libraries)
   - [Image/Text to ASCII Libraries](#imagetext-to-ascii-libraries)
   - [Text to Speech](#Text-to-Speech)
+  - [Windows API](#windows-apis)
 -----
 
 ## The following pages are a useful first step to get on your way writing programs with Python!
