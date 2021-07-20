@@ -76,4 +76,5 @@ Python is developed under an OSI-approved open source license, making it freely 
  
 ## Text to Speech
  - [pyttsx3](https://github.com/nateshmbhat/pyttsx3)
+ - [gTTS (Google Text-to-Speech)](https://github.com/pndurette/gTTS)
  
