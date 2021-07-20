@@ -78,3 +78,6 @@ Python is developed under an OSI-approved open source license, making it freely 
  - [pyttsx3](https://github.com/nateshmbhat/pyttsx3)
  - [gTTS (Google Text-to-Speech)](https://github.com/pndurette/gTTS)
  
+## Windows APIs
+  - [pywin32](https://github.com/mhammond/pywin32)
+  
