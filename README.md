@@ -81,4 +81,6 @@ Python is developed under an OSI-approved open source license, making it freely 
  
 ## Windows APIs
   - [pywin32](https://github.com/mhammond/pywin32)
-  
+
+## Windows mouse and keyboard events
+  - [pyHook](https://sourceforge.net/projects/pyhook/)
